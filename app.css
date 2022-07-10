@@ -62,3 +62,11 @@ hr {
     border-radius: 5px;
     padding: 5px 10px;
 }
+
+.btn {
+    border: none;
+    margin-top: 15px;
+    color: rgba(255, 255, 255, 0.527);
+    font-size: 1.2rem;
+    padding: 6px 10px;
+}
