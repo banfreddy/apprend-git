@@ -14,7 +14,7 @@
     justify-content: space-around;
     align-items: center;
     text-align: center;
-    padding-top: 28px;
+    padding-top: 20px;
 }
 
 .navtop a {
@@ -26,7 +26,7 @@
 }
 
 .contenu {
-    width: 80%;
+    width: 85%;
     height: 100vh;
     margin: 0 auto;
     padding: 10px 15px;
@@ -55,4 +55,10 @@ hr {
 .ul-local,
 .ul-reseau {
     list-style-type: none;
+}
+
+.btn-primary {
+    background: #158866;
+    border-radius: 5px;
+    padding: 5px 10px;
 }
